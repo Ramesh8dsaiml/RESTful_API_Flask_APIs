@@ -3,6 +3,7 @@
 
 1 . Flask APP :
 -> project structure :
+- First app
    - open vscode
    - setting up myenv venv
    - first Flask application (only basic understanding)
